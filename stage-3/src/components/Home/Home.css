@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Code+Pro');
+
+.home-landing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: url("../../images/utah-mountains-wallpaper-2.jpg");
+    height: calc(100vh - 103px);
+    font-family: 'Source Code Pro', monospace;
+}
+
+.home-landing h1 {
+    font-size: 50px;
+    padding-bottom: 7vh;
+}
